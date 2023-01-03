@@ -16,11 +16,13 @@
 
 }
 .register{
-    background-image: url('./assets/vackground.svg');
+    background-image: url('./assets/vackground.png');
     height: 1024px;
     width: 100%;
     display: grid;
     place-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .two{
